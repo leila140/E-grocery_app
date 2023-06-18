@@ -1,0 +1,118 @@
+{
+  "users": [
+    {
+      "id": "rami@gmail.com",
+      "nom": "rami",
+      "prenom": "Ali",
+      "password": "123",
+      "profile": "admin"
+    },
+    {
+      "id": "fatihi@gmail.com",
+      "nom": "fatihi",
+      "prenom": "omar",
+      "password": "123",
+      "profile": "utilisateur"
+    },
+    {
+      "id": "alami@gmail.com",
+      "nom": "alami",
+      "password": "12",
+      "civilite": "masculin",
+      "ville": "",
+      "adresse": "adresse",
+      "profile": "admin"
+    },
+    {
+      "id": "fahmi@gmail.com",
+      "nom": "fahmi",
+      "password": "123",
+      "civilite": "masculin",
+      "ville": "rabat",
+      "adresse": "rue 15",
+      "profile": "admin"
+    },
+    {
+      "id": "faragi@gmail.com",
+      "nom": "faragi",
+      "password": "123",
+      "civilite": "feminin",
+      "ville": "rabat",
+      "adresse": "rue essalam 2222",
+      "profile": "admin"
+    },
+    {
+      "id": "faragi2@gmail.com",
+      "nom": "faragi2",
+      "password": "123",
+      "civilite": "feminin",
+      "ville": "rabat",
+      "adresse": "rue essalam 5555",
+      "profile": "admin"
+    },
+    {
+      "id": "test@gmail.com",
+      "nom": "test",
+      "password": "123",
+      "civilite": "masculin",
+      "ville": "rabat",
+      "adresse": "adresse test 1111",
+      "profile": "admin"
+    },
+    {
+      "id": "test7@gmail.com",
+      "nom": "test7",
+      "password": "",
+      "civilite": "masculin",
+      "ville": "",
+      "adresse": "adresse",
+      "profile": "admin"
+    },
+    {
+      "id": "test77@gmail.com",
+      "nom": "test7",
+      "password": "",
+      "civilite": "masculin",
+      "ville": "",
+      "adresse": "adresse",
+      "profile": "admin"
+    },
+    {
+      "id": "hdfgh",
+      "nom": "fgfg",
+      "password": "",
+      "civilite": "masculin",
+      "ville": "",
+      "adresse": "adresse",
+      "profile": "admin"
+    },
+    {
+      "id": "test8@gmail.com",
+      "nom": "test",
+      "password": "123",
+      "civilite": "masculin",
+      "ville": "rabat",
+      "adresse": "adresse",
+      "profile": "admin"
+    },
+    {
+      "id": "test",
+      "nom": "test",
+      "password": "",
+      "civilite": "masculin",
+      "ville": "",
+      "adresse": "adresse",
+      "profile": "admin"
+    },
+    {
+      "id": "leila@gmail.com",
+      "nom": "",
+      "password": "leila",
+      "civilite": "masculin",
+      "ville": "",
+      "adresse": "adresse",
+      "profile": "admin"
+    }
+  ]
+  
+}

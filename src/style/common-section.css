@@ -1,0 +1,8 @@
+.common__section{
+background:linear-gradient(#504f4cb2,#4e4e4a),url("../assets/images/back3-products.jpg") ;
+background-repeat: no-repeat ;
+background-size: cover;
+background-position: center;
+padding: 80px 0px;
+
+}
